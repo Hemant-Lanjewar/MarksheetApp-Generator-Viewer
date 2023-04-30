@@ -3,8 +3,7 @@
 •	Concepts learned: -Use of Servlets, JSP, Java Beans, JBDC, Collection, DAO Layers.<br>
 •	Technologies used: -JAVA(Backend), HTML, CSS, JavaScript (Frontend), Oracle SQL(Database).<br><hr>
 
-
-#Output
+-->Output
 <!-- Grid View of Screenshots -->
 <div align="center">
   <div style="display: flex; flex-direction: row;">
