@@ -4,7 +4,7 @@
 •	Technologies used: -JAVA(Backend), HTML, CSS, JavaScript (Frontend), Oracle SQL(Database).<br>
 
 
-
+#Output
 <!-- Grid View of Screenshots -->
 <div align="center">
   <div style="display: flex; flex-direction: row;">
