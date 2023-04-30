@@ -1,7 +1,7 @@
-# MarksheetApp-Generator-Viewer
+# MarksheetApp-Generator-Viewer<br><hr>
 •	Purpose: -Marksheet viewer and Generator is a web application which can perform two operations (View-Marksheet, Generate-Marksheet) Used Oracle as Database.<br>
 •	Concepts learned: -Use of Servlets, JSP, Java Beans, JBDC, Collection, DAO Layers.<br>
-•	Technologies used: -JAVA(Backend), HTML, CSS, JavaScript (Frontend), Oracle SQL(Database).<br>
+•	Technologies used: -JAVA(Backend), HTML, CSS, JavaScript (Frontend), Oracle SQL(Database).<br><hr>
 
 
 #Output
